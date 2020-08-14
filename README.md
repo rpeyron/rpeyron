@@ -9,7 +9,7 @@ My main repositories:
 
 The others are mainly old & unmaintained stuff or forks to contribute to other softwares. Some PRs that have not yet been merged by the upstream repository owner but that you may find usefull: [HTML-Import-2](../HTML-Import-2), [wp-sqlite-integration](../wp-sqlite-integration), [blocks](../blocks)
 
-## Find me on Internet 
+## Find me on Internet 📫
 - Personal website : https://www.lprp.fr
 - 3D Designs Thingiverse : https://www.thingiverse.com/rpeyron/
 - LinkedIn : https://www.linkedin.com/in/remipeyronnet/
