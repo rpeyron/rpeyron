@@ -5,6 +5,7 @@ My main repositories:
 - [libxmldiff](../libxmldiff) : a simple library to diff XML files
 - [xmlTreeNav](../xmltreenav) : xmlTreeNav is a GUI for libxmldiff, and easy tree navigation
 - [plugin-button](../plugin-button) : a button plugin with image for Dokuwiki
+- [plugin-drawio-editors](../plugin-drawio-editors) : a plugin for draw.io / diagrams.net that integrates other editors (swagger, markdown,...)
 - [scrap2api](../scrap2api) : a very lightweight solution to access websites via API through webscrapping.
 
 The others are mainly old & unmaintained stuff or forks to contribute to other softwares. Some PRs that have not yet been merged by the upstream repository owner but that you may find usefull: [HTML-Import-2](../HTML-Import-2), [wp-sqlite-integration](../wp-sqlite-integration), [blocks](../blocks)
