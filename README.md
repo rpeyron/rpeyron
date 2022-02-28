@@ -8,6 +8,7 @@ My main repositories:
 - [plugin-drawio-editors](../../../plugin-drawio-editors) : a plugin for draw.io / diagrams.net that integrates other editors (swagger, markdown,...)
 - [plugin-gimp-fourier](../../../plugin-gimp-fourier) and [plugin-gimp-yuv](../../../plugin-gimp-yuv) : plugins for GIMP to convert images with fourier transform or to YUV layers
 - [scrap2api](../../../scrap2api) : a very lightweight solution to access websites via API through webscrapping.
+- [verres](../../../verres) : a simple web application to normalize lens correction french notations (in french)
 
 The others are mainly old & unmaintained stuff or forks to contribute to other softwares. Some PRs that have not yet been merged by the upstream repository owner but that you may find usefull: [HTML-Import-2](../../../HTML-Import-2), [wp-sqlite-integration](../../../wp-sqlite-integration), [blocks](../../../blocks)
 
