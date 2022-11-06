@@ -11,7 +11,17 @@ My main repositories:
 - [verres](../../../verres) : a simple web application to normalize lens correction french notations (in french)
 - [blelt2mqtt](../../../blelt2mqtt) : a daemon to decode LT Thermometer devices and send through MQTT to Domoticz / Home Assistant
 
-The others are mainly old & unmaintained stuff or forks to contribute to other softwares. Some PRs that have not yet been merged by the upstream repository owner but that you may find usefull: [HTML-Import-2](../../../HTML-Import-2), [wp-sqlite-integration](../../../wp-sqlite-integration), [blocks](../../../blocks)
+The others are mainly old & unmaintained stuff or forks to contribute to other softwares. 
+
+Some PRs that have not yet been merged by the upstream repository owner but that you may find useful:
+- [HTML-Import-2](../../../HTML-Import-2): Added french translation and '*' for files import., 
+- [wp-sqlite-integration](../../../wp-sqlite-integration): Add compatibility support for ALTER TABLE containing AFTER command, 
+- [drawio_mermaid_plugin](../../../drawio_mermaid_plugin): More explicit buttons and global config, 
+- [wordpress-to-jekyll-exporter](../../../wordpress-to-jekyll-exporter): Export comments, Polylang support and many other small improvements, 
+- [jekyll-admin](../../../jekyll-admin): header buttons, default meta, force show drafts
+- [giscus](../../../giscus): basic basepath support, 
+- [react-spotify-api](../../../react-spotify-api): fix UserArtists component, 
+- [blocks](../../../blocks): fix found in comments, 
 
 ## Find me on Internet 📫
 - Personal website : https://www.lprp.fr
