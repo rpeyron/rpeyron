@@ -22,6 +22,7 @@ Some PRs that have not yet been merged by the upstream repository owner but that
 - [giscus](../../../giscus): basic basepath support, 
 - [react-spotify-api](../../../react-spotify-api): fix UserArtists component, 
 - [blocks](../../../blocks): fix found in comments, 
+- [miniweb](../../../miniweb): added svg mime type and windows build with GitHub actions, 
 
 ## Find me on Internet 📫
 - Personal website : https://www.lprp.fr
