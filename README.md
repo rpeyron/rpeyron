@@ -23,6 +23,7 @@ Some PRs that have not yet been merged by the upstream repository owner but that
 - [react-spotify-api](../../../react-spotify-api): fix UserArtists component, 
 - [blocks](../../../blocks): fix found in comments, 
 - [miniweb](../../../miniweb): added svg mime type and windows build with GitHub actions, 
+- [komga](../../../komga): added sort options and basic pan & zoom pdf viewer feature, 
 
 ## Find me on Internet 📫
 - Personal website : https://www.lprp.fr
