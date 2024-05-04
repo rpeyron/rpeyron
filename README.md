@@ -10,6 +10,7 @@ My main repositories:
 - [scrap2api](../../../scrap2api) : a very lightweight solution to access websites via API through webscrapping.
 - [verres](../../../verres) : a simple web application to normalize lens correction french notations (in french)
 - [blelt2mqtt](../../../blelt2mqtt) : a daemon to decode LT Thermometer devices and send through MQTT to Domoticz / Home Assistant
+- [rc2magichome](../../../rc2magichome) : a basic remote control automation for magichome LED controlers
 
 The others are mainly old & unmaintained stuff or forks to contribute to other softwares. 
 
